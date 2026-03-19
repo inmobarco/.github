@@ -13,14 +13,24 @@ Bajo el liderazgo de nuestro departamento de TI, estamos evolucionando nuestro e
 
 ---
 
-### 🛠️ Tech Stack
-Contamos con un stack diverso y robusto para cubrir desde el backend empresarial hasta aplicaciones móviles ágiles:
+### 🛠️ Tech Stack & Ecosystem
+Desarrollamos soluciones robustas integrando tecnologías modernas con nuestra identidad corporativa.
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) |
-| **Base de Datos** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
-| **Ecosistema** | ![Microsoft](https://img.shields.io/badge/Microsoft-00A4EF?style=flat&logo=microsoft&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) |
+| **Lenguajes** | ![Dart](https://img.shields.io/badge/Dart-48BFF7?style=for-the-badge&logo=dart&logoColor=141F21) ![JS](https://img.shields.io/badge/JavaScript-1B99D3?style=for-the-badge&logo=javascript&logoColor=F1FAFE) ![Python](https://img.shields.io/badge/Python-141F21?style=for-the-badge&logo=python&logoColor=48BFF7) ![C#](https://img.shields.io/badge/C%23-D2D9E0?style=for-the-badge&logo=c-sharp&logoColor=141F21) |
+| **Data** | ![SQL](https://img.shields.io/badge/SQL_Server-1B99D3?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+
+---
+
+### 🎨 Brand Identity (Manual de Estilo)
+Utilizamos estos identificadores visuales en todos nuestros desarrollos digitales:
+
+- 🟦 **Azul Principal:** `#48BFF7` (Action items & Highlights)
+- 💎 **Azul Secundario:** `#1B99D3` (Secondary UI)
+- ⬛ **Casi Negro:** `#141F21` (Typography & Backgrounds)
+- 🏢 **Gris:** `#D2D9E0` (Borders & Dividers)
+- ⬜ **Blanco:** `#F1FAFE` (Surface & Contrast)
 
 ---
 
