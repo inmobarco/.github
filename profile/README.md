@@ -28,7 +28,7 @@ Utilizamos estos identificadores visuales en todos nuestros desarrollos digitale
 
 - 🟦 **Azul Principal:** `#48BFF7` (Action items & Highlights)
 - 💎 **Azul Secundario:** `#1B99D3` (Secondary UI)
-- ⬛ **Casi Negro:** `#141F21` (Typography & Backgrounds)
+- ⬛ **Negro:** `#141F21` (Typography & Backgrounds)
 - 🏢 **Gris:** `#D2D9E0` (Borders & Dividers)
 - ⬜ **Blanco:** `#F1FAFE` (Surface & Contrast)
 
